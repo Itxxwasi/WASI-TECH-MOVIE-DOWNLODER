@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12">
+  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
     <img src="https://img.shields.io/badge/%20Join%20Our%20WhatsApp%20Channel%20-darkgreen" alt="Join Our WhatsApp Channel" width="300">
   </a>
 </p>
@@ -48,24 +48,6 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/SACHIBOT/MOVIE-MYSTIQ/fork">
-    <img src="https://img.shields.io/badge/FORK%20MOVIE%20MYSTIQ-yellow" alt="FORK MOVIE MYSTIQ">
+  <a href="https://github.com/Itxxwasi/WASI-TECH-MOVIE-DOWNLODER/fork">
+    <img src="https://img.shields.io/badge/FORK%20MOVIE%20MYSTIQ-yellow" alt="FORK ME">
   </a>
-</p>
-<br>
-<h2 align="center">Movie Mystiq Bot Owners</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80 alt="Owner"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prabathLK"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80 alt="Supporter"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/SACHIBOT">SACHIBOT</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prabathLK">PrabathLK</a>
-</p>
-<br>
-<p align="center">
-  Released date:- 2024.02.22
-  <br>
-  Latest updated date:- 2024.02.22
-</p>
