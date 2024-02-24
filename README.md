@@ -37,10 +37,10 @@
   ">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://railway.app/template/cvZzpl">
+  <a href="https://railway.app/template/pRKuYD?referralCode=jXce64">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQ&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git">
+  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Itxxwasi/WASI-TECH-MOVIE-DOWNLODER&template=https://github.com/Itxxwasi/WASI-TECH-MOVIE-DOWNLODER.git">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" width="200" height="40" >
   </a>
 </p>
