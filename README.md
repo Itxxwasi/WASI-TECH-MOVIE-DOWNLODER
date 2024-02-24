@@ -4,15 +4,16 @@
 <p align="center">
   <img src="https://telegra.ph/file/e8d11fde869fd077944dd.jpg" alt="Movie Mystiq" height="300">
 </p>
+Itxxwasi/WASI-TECH-MOVIE-DOWNLODER
 
 <p align="center">  
   💡 This bot is created using <strong><a href="https://github.com/WhiskeySockets/Baileys">Baileys</a></strong>, so special thanks to its developers.
 </p>
 <br>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSACHIBOT%2FMOVIE-MYSTIQ&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/SACHIBOT/MOVIE-MYSTIQ?label=Forks&style=social" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/SACHIBOT/MOVIE-MYSTIQ?style=social" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItxxwasi%2FWASI-TECH-MOVIE-DOWNLODER&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/Itxxwasi/WASI-TECH-MOVIE-DOWNLODER?label=Forks&style=social" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Itxxwasi/WASI-TECH-MOVIE-DOWNLODER?style=social" />
 </p>
 
 <p align="center">
